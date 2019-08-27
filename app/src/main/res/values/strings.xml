@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Deliveroo</string>
+    <string name="use_rx">Use Rx</string>
+    <string name="use_coroutine">Use Coroutine</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="search">Search</string>
+</resources>
